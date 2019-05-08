@@ -1,0 +1,7 @@
+# GeneralAssembly_Capstone
+General Assembly is an educational institution that offers various coding bootcamps.  I recently completed their data science bootcamp which focused heavily on supervised machine learning such as regression and classification.  I had the opportunity to work through multiple projects, using Python and calling various packages such as Pandas, SciKit Learn, etc. to perform exploratory data analysis, and make predictions about various data sets.  At the end of the course, I found a publicly available data set to make predictions about various health outcomes.  I captured my analysis and finding in a technical brief which I saved in a Jupyter Notebook, and I created an executive summary through PowerPoint.  This Repo contains my technical brief.
+
+For more Information about the data set:
+The Behavioral Risk Factor Surveillance data was made available through Kaggle. Kaggle's description of the data is: "The objective of the BRFSS is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, injuries, and preventable infectious diseases in the adult population. Factors assessed by the BRFSS include tobacco use, health care coverage, HIV/AIDS knowledge or prevention, physical activity, and fruit and vegetable consumption. Data are collected from a random sample of adults (one per household) through a telephone survey."
+
+The full data dictionary is published by the CDC at https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
